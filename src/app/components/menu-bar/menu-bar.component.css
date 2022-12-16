@@ -1,0 +1,15 @@
+.nav__menu-bar{
+    padding: 10px;
+
+}
+
+.nav__menu-bar ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav__menu-bar img {
+    width: 30px;
+    margin-top: 20px;
+}

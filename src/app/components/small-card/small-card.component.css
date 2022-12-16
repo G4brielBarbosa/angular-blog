@@ -1,0 +1,24 @@
+.container__small-card{
+    display: flex;
+    margin: 2% 0;
+}
+
+.small-card__photo a img {
+    max-width: 100%;
+    height: 150px;
+}
+
+.small-card__tittle{
+    width: 50%;
+    margin-left: 2%;
+}
+
+.small-card__tittle > p {
+    color: gray;
+}
+
+
+hr {
+	border: 1px solid; 
+	border-color:rgba(255, 255, 255, 0.1);
+}

@@ -1,0 +1,12 @@
+.container__section-cards{
+display: flex;
+flex-direction: row;
+}
+
+.container__big-card{
+    width: 50%;
+}
+
+.container__small-card{
+    width: 50%;
+}

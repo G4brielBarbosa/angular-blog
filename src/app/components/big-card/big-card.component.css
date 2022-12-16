@@ -1,0 +1,23 @@
+.container__big-card{
+
+    padding: 0% 5%;
+    text-align: justify;
+}
+
+.big-card__photo{
+    overflow: hidden;
+    margin-bottom: 2%;
+}
+
+.big-card__photo > a > img {
+    width: 100%;
+        
+}
+
+.big-card__tittle{
+    margin-bottom: 2%;
+}
+
+.big-card__subtittle p{
+    color: gray;
+}

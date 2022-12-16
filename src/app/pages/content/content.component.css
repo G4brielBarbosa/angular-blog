@@ -1,0 +1,22 @@
+
+.container__content{
+    width: 50%;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid white;
+    
+}
+
+.container__content img {
+    margin-bottom: 20px;
+}
+
+.container__content h2{
+    margin-bottom: 20px;
+}
+
+.container__content p {
+    margin-bottom: 20px;
+}
